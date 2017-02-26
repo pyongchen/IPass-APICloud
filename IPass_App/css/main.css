@@ -1,0 +1,46 @@
+.aui-bar {
+  padding-top: 0.5rem !important;
+}
+
+#down-icon {
+  width: 1.2rem;
+}
+
+#search-icon {
+  width: 1.1rem;
+}
+
+#name {
+  font-size: 1.4rem;
+}
+
+#city {
+  font-size: 1.1rem;
+}.btn2 {
+  width: 2.8rem;
+  height: 2.8rem;
+  margin-top: -0.5rem;
+  margin-left: 0.2rem;
+}
+
+#footer {
+  height: 3rem !important;
+}
+
+.footer-icon {
+  width: 1.6rem;
+  height: 1.6rem;
+  margin-top: -0.8rem;
+  margin-bottom: -0.2rem;
+  color: #989e9c;
+}
+
+.icon-me {
+  width: 1.3rem !important;
+  height: 1.3rem !important;
+  margin-bottom: -0.1rem;
+}
+
+.active {
+  color: #0ab9c5 !important;
+}

@@ -1,0 +1,10 @@
+body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+#search {
+  background-color: #c8cbd2;
+  position: absolute;
+  top: 0;
+}
