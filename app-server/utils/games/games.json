@@ -1,0 +1,223 @@
+{
+  "data":[
+    {
+      "_id": "4adf6cf0-df3a-4ae8-91cf-e0dd01772876",
+      "_type": "3V3",
+      "title": "求高手,菜鸟绕道",
+      "level": 3,
+      "loseRate": "≤6%",
+      "time": "10月20号下午4:00",
+      "location": "广州大学城中大10号场",
+      "cover": "bg.png",
+      "message": "各位球员请提前半个钟到场热身,请勿迟到缺席,如临时有事,请私聊我",
+      "status": "未开始",
+      "hasJoined": false,
+      "hasReferee": false,
+      "reward": 3,
+      "overallLimit": ">70",
+      "teams": [
+        {
+          "_id": "03c71f5d-a7da-497c-982a-1c5693d66ced",
+          "name": "王者队",
+          "image": "t5.jpg",
+          "signature": "人人为我，我为人人",
+          "overall": 71,
+          "level": 3,
+          "fans": "30万",
+          "loseRate": "8%"
+        },
+        {
+          "_id": "8f5fcfc3-59d8-4853-a55d-419feb9f41da",
+          "name": "传奇队",
+          "image": "t3.jpg",
+          "signature": "个人的力量总是渺小的，一个团结一心的集体才会无往而不利",
+          "overall": 75,
+          "level": 3,
+          "fans": "100万",
+          "loseRate": "6%"
+        }
+      ],
+      "referees":[
+        {
+          "_id": 1,
+          "name": "张三",
+          "image": "re1.jpg",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "_id": "87fb9efc-910f-44d6-977a-10bcc827e117",
+      "_type": "5V5",
+      "title": "巅峰对决,欢迎广大球员捧场",
+      "level": 3,
+      "loseRate": "≤6%",
+      "time": "10月22号下午4:00",
+      "location": "广州大学城中大4号场",
+      "cover": "bg.png",
+      "message": "各位球员请提前半个钟到场热身,请勿迟到缺席,如临时有事,请私聊我",
+      "status": "未开始",
+      "isJoin": false,
+      "hasReferee": false,
+      "reward": 3,
+      "overallLimit": ">70",
+      "teams": [
+        {
+          "_id": "e8770391-dc63-4c2a-a99f-e62accef88bc",
+          "name": "天火队",
+          "image": "t1.jpg",
+          "signature": "不要轻言放弃，一旦放弃了，比赛就结束了",
+          "overall": 78,
+          "level": 3,
+          "fans": "1000万",
+          "loseRate": "3%"
+        },
+        {
+          "_id": "3ff58eb2-1fc7-4e7f-8ddc-3a256b1ca48e",
+          "name": "梦之队",
+          "image": "t2.jpg",
+          "signature": "有些人比赛是为了比赛，有些人比赛时为了胜利，你呢？",
+          "overall": 73,
+          "level": 2,
+          "fans": "400万",
+          "loseRate": "5%"
+        }
+      ],
+      "referees":[
+        {
+          "_id": 1,
+          "name": "张三",
+          "image": "re1.jpg",
+          "level": 3
+        },
+        {
+          "_id": 2,
+          "name": "李四",
+          "image": "re1.jpg",
+          "level": 2
+        },
+        {
+          "_id": 3,
+          "name": "王五",
+          "image": "re1.jpg",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "_id": "e309b4b7-c8e3-4fbf-a29a-ddd4f5c11b5f",
+      "_type": "wild",
+      "title": "切磋球技",
+      "level": 3,
+      "loseRate": "6%",
+      "time": "10月20号下午4:00",
+      "location": "广州大学城中大5号场",
+      "cover": "bg.png",
+      "message": "随便玩玩,高手绕道",
+      "status": "未开始",
+      "isJoin": false,
+      "hasReferee": false,
+      "numbers": 9,
+      "reward": 3,
+      "maxNum": 30,
+      "overallLimit": ">70",
+      "caller": {
+        "_id": 1,
+        "name": "杜兰特",
+        "image": "1.jpg",
+        "signature": "加盟金州,剑指总冠军",
+        "level": 2,
+        "overall": 72,
+        "loseRate": "5%",
+        "fans": "21万",
+        "MVP": 2
+      }
+    },
+    {
+      "_id": "317f4570-b808-4711-91bf-4a3f69a6edf1",
+      "_type": "5V5",
+      "title": "孤独求败",
+      "level": 3,
+      "loseRate": "≤6%",
+      "time": "10月21号下午4:00",
+      "location": "广州大学城中大9号场",
+      "cover": "bg.png",
+      "message": "各位球员请提前半个钟到场热身,请勿迟到缺席,如临时有事,请私聊我",
+      "status": "未参赛",
+      "isJoin": false,
+      "hasReferee": false,
+      "reward": 3,
+      "overallLimit": ">70",
+      "teams": [
+        {
+          "_id": "3ff58eb2-1fc7-4e7f-8ddc-3a256b1ca48e",
+          "name": "梦之队",
+          "image": "t2.jpg",
+          "signature": "有些人比赛是为了比赛，有些人比赛时为了胜利，你呢？",
+          "overall": 73,
+          "level": 2,
+          "fans": "400万",
+          "loseRate": "5%"
+        }
+      ]
+    },
+    {
+      "_id": "336ad035-f1b2-4354-9834-7d3e98f3b5e9",
+      "_type": "5V5",
+      "title": "巅峰对决,欢迎广大球员捧场",
+      "level": 3,
+      "loseRate": "6%",
+      "time": "10月22号下午4:00",
+      "location": "广州大学城中大8号场",
+      "cover": "bg.png",
+      "message": "各位球员请提前半个钟到场热身,请勿迟到缺席,如临时有事,请私聊我",
+      "status": "正在比赛",
+      "isJoin": false,
+      "hasReferee": false,
+      "reward": 3,
+      "overallLimit": ">70",
+      "teams": [
+        {
+          "_id": "e8770391-dc63-4c2a-a99f-e62accef88bc",
+          "name": "天火队",
+          "image": "t1.jpg",
+          "signature": "不要轻言放弃，一旦放弃了，比赛就结束了",
+          "overall": 78,
+          "level": 3,
+          "fans": "1000万",
+          "loseRate": "3%"
+        },
+        {
+          "_id": "3ff58eb2-1fc7-4e7f-8ddc-3a256b1ca48e",
+          "name": "梦之队",
+          "image": "t2.jpg",
+          "signature": "有些人比赛是为了比赛，有些人比赛时为了胜利，你呢？",
+          "overall": 73,
+          "level": 2,
+          "fans": "400万",
+          "loseRate": "5%"
+        }
+      ],
+      "referees":[
+        {
+          "_id": 1,
+          "name": "张三",
+          "image": "re1.jpg",
+          "level": 3
+        },
+        {
+          "_id": 2,
+          "name": "李四",
+          "image": "re1.jpg",
+          "level": 2
+        },
+        {
+          "_id": 3,
+          "name": "王五",
+          "image": "re1.jpg",
+          "level": 1
+        }
+      ]
+    }
+  ]
+}

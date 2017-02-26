@@ -1,0 +1,19 @@
+.aui-bar {
+  padding-top: 0.5rem !important;
+}
+
+#down-icon {
+  width: 1.2rem;
+}
+
+#search-icon {
+  width: 1.1rem;
+}
+
+#name {
+  font-size: 1.4rem;
+}
+
+#city {
+  font-size: 1.1rem;
+}

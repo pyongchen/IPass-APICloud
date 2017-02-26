@@ -1,0 +1,48 @@
+{
+  "data":{
+    "_id": "4adf6cf0-df3a-4ae8-91cf-e0dd01772876",
+    "_type": "3V3",
+    "title": "求高手,菜鸟绕道",
+    "level": 3,
+    "loseRate": "≤6%",
+    "time": "10月20号下午4:00",
+    "location": "广州大学城中大10号场",
+    "cover": "bg.png",
+    "message": "各位球员请提前半个钟到场热身,请勿迟到缺席,如临时有事,请私聊我",
+    "status": "未开始",
+    "hasJoined": false,
+    "hasReferee": false,
+    "reward": 3,
+    "overallLimit": ">70",
+    "teams": [
+      {
+        "_id": "03c71f5d-a7da-497c-982a-1c5693d66ced",
+        "name": "王者队",
+        "image": "t5.jpg",
+        "signature": "人人为我，我为人人",
+        "overall": 71,
+        "level": 3,
+        "fans": "30万",
+        "loseRate": "8%"
+      },
+      {
+        "_id": "8f5fcfc3-59d8-4853-a55d-419feb9f41da",
+        "name": "传奇队",
+        "image": "t3.jpg",
+        "signature": "个人的力量总是渺小的，一个团结一心的集体才会无往而不利",
+        "overall": 75,
+        "level": 3,
+        "fans": "100万",
+        "loseRate": "6%"
+      }
+    ],
+    "referees":[
+      {
+        "_id": 1,
+        "name": "张三",
+        "image": "re1.jpg",
+        "level": 3
+      }
+    ]
+  }
+}

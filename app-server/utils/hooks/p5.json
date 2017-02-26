@@ -1,0 +1,24 @@
+{
+  "data": {
+    "_id": "2a5f8226-b35a-4793-ae96-32bddf2fe222",
+    "background": "assets/images/hoop/p5/2.jpg",
+    "hooks": [
+      {
+        "pictures": [
+          {
+            "location": "assets/images/hoop/p5/1.jpg"
+          }
+        ],
+        "passage": "今天发挥的不怎样啊，坑了队友",
+        "comments": [
+          {
+            "from": "3d37a9da-e001-4675-a0ab-2290f9e91cd3",
+            "to": "2a5f8226-b35a-4793-ae96-32bddf2fe20d",
+            "content": "下次再来",
+            "time": "123"
+          }
+        ]
+      }
+    ]
+  }
+}
